@@ -73,7 +73,7 @@ jobs:
         run: cargo llvm-cov report --fail-under-lines 80
 
       - name: Upload to Codecov
-        uses: codecov/codecov-action@v4
+        uses: codecov/codecov-action@v7
         with:
           files: acerola/lcov.info
           token: ${{ secrets.CODECOV_TOKEN }}
