@@ -1,3 +1,20 @@
+<div align="center">
+
+> [!CAUTION]
+> ## 🚨 ESTE REPOSITÓRIO FOI MOVIDO 🚨
+>
+> **Este repositório está arquivado e não recebe mais atualizações.**
+>
+> ➡️ **O projeto foi migrado para o monorepo:**
+>
+> ### **[👉 github.com/Vinicius-Gabriel-P-Leitao/acerola-reader](https://github.com/Vinicius-Gabriel-P-Leitao/acerola-reader/)**
+>
+> Por favor, acesse o novo repositório para a versão mais recente, issues e contribuições.
+
+</div>
+
+---
+
 # acerola-p2p
 
 Biblioteca P2P central do ecossistema Acerola. Compartilhada entre desktop e Android (futuramente iOS). Construída sobre [iroh](https://github.com/n0-computer/iroh) (QUIC / TLS 1.3) com runtime assíncrono [Tokio](https://tokio.rs).
